@@ -1,4 +1,36 @@
-.body{
-    background-color: #fafafa;
-    font-family: 'Jura', sans-serif;
-  }
+.body {
+  background-color: #fafafa;
+  font-family: 'Jura', sans-serif;
+}
+
+.jumbotron {
+  background-image: url("/images/car4.jpg");
+  background-size: cover;
+  background-position: 0px 40%;
+  border: 0;
+  border-radius: 0;
+}
+
+.title {
+  color: #ffffff;
+  padding: 50px 0 50px;
+}
+
+
+.font {
+  font-family: 'Creepster';
+  text-decoration: none;
+}
+
+.black {
+  color: #000000;
+}
+
+.white {
+  color: #EEEeee;
+}
+
+.link {
+  text-decoration: none;
+  color: #848b95;
+}
