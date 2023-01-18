@@ -5,7 +5,8 @@ About project -->
 ## Demo
 [Bootstrap Playground](https://olaf-tarkowski.github.io/bootstrap-playground/)
 
-[CarMagazine](https://user-images.githubusercontent.com/80913259/213185129-fd4eeaac-c7cf-45a7-b5a9-508f05d11192.PNG)
+![CarMagazineWebsite](https://user-images.githubusercontent.com/80913259/213187410-daa7dec9-a5fe-42b6-8f7d-5a854bf8e12f.PNG)
+
 
 ## Used technologies
 - HTML
